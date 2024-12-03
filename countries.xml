@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Countries>
+    <Record>
+        <country>Afghanistan;42647492;65;652860;4</country>
+        <population>8;17;27 %;0</population>
+        <density>52</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Albania;2791765;102;27400;1</country>
+        <population>3;37;69 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Algeria;46814308;20;2381740;2</country>
+        <population>7;28;74 %;0</population>
+        <density>57</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>American Samoa;46765;234;200;2</country>
+        <population>3;29;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Andorra;81938;174;470;1</country>
+        <population>1;43;83 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Angola;37885849;30;1246700;5;17;68 %;0</country>
+        <population>46</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Anguilla;14598;162;90;1</country>
+        <population>4;38;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Antigua and Barbuda;93772;213;440;1</country>
+        <population>6;36;28 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Argentina;45696159;17;2736690;1</country>
+        <population>5;33;95 %;0</population>
+        <density>56</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Armenia;2973840;104;28470;1</country>
+        <population>7;36;63 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Aruba;108066;600;180;1</country>
+        <population>6;41;44 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Australia;26713205;3;7682300;1</country>
+        <population>6;38;86 %;0</population>
+        <density>33</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Austria;9120813;111;82409;1</country>
+        <population>3;43;58 %;0</population>
+        <density>11</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Azerbaijan;10336577;125;82658;1</country>
+        <population>7;33;58 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bahamas;401283;40;10010;1</country>
+        <population>4;35;88 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bahrain;1607049;2115;760;1</country>
+        <population>8;33;N.A.;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bangladesh;173562364;1333;130170;2</country>
+        <population>1;26;42 %;2</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Barbados;282467;657;430;1</country>
+        <population>7;39;32 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Belarus;9056696;45;202910;1</country>
+        <population>2;41;84 %;0</population>
+        <density>11</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Belgium;11738763;388;30280;1</country>
+        <population>4;42;99 %;0</population>
+        <density>14</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Belize;417072;18;22810;2;26;48 %;0</country>
+        <population>01</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Benin;14462724;128;112760;4</country>
+        <population>5;18;47 %;0</population>
+        <density>18</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bermuda;64636;1293;50;1</country>
+        <population>4;46;93 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bhutan;791524;21;38117;1</country>
+        <population>4;30;49 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bolivia;12413315;11;1083300;2</country>
+        <population>5;25;70 %;0</population>
+        <density>15</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bosnia and Herzegovina;3164253;62;51000;1</country>
+        <population>5;45;56 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Botswana;2521139;4;566730;2</country>
+        <population>7;23;75 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Brazil;211998573;25;8358140;1</country>
+        <population>6;34;91 %;2</population>
+        <density>6</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>British Virgin Islands;39471;263;150;1;38;43 %;0</country>
+        <population>MISSING</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Brunei;462721;88;5270;1</country>
+        <population>7;32;80 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Bulgaria;6757689;62;108560;1</country>
+        <population>7;45;77 %;0</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Burkina Faso;23548781;86;273600;4</country>
+        <population>1;17;33 %;0</population>
+        <density>29</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Burundi;14047786;547;25680;4</country>
+        <population>8;16;14 %;0</population>
+        <density>17</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cabo Verde;524877;130;4030;1</country>
+        <population>5;28;78 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cambodia;17638801;100;176520;2</country>
+        <population>5;26;26 %;0</population>
+        <density>22</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cameroon;29123744;62;472710;4</country>
+        <population>3;18;59 %;0</population>
+        <density>36</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Canada;39742430;4;9093510;1</country>
+        <population>3;40;80 %;0</population>
+        <density>49</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Caribbean Netherlands;30675;94;328;1</country>
+        <population>5;40;66 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cayman Islands;74457;310;240;1</country>
+        <population>5;38;90 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Central African Republic;5330690;9;622980;6;14;44 %;0</country>
+        <population>07</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Chad;20299123;16;1259200;6;16;22 %;0</country>
+        <population>25</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Chile;19764771;27;743532;1</country>
+        <population>1;36;85 %;0</population>
+        <density>24</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>China;1419321278;151;9388211;1;40;66 %;17</country>
+        <population>39</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Colombia;52886363;48;1109500;1</country>
+        <population>6;32;81 %;0</population>
+        <density>65</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Comoros;866628;466;1861;3</country>
+        <population>8;21;33 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Congo;6332961;19;341500;4</country>
+        <population>1;18;69 %;0</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cook Islands;13729;57;240;2;36;98 %;0</country>
+        <population>MISSING</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Costa Rica;5129910;100;51060;1</country>
+        <population>3;35;84 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>C&#65533;te d'Ivoire;31934230;100;318000;4</country>
+        <population>2;18;49 %;0</population>
+        <density>39</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Croatia;3875325;69;55960;1</country>
+        <population>5;45;61 %;0</population>
+        <density>05</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cuba;10979783;103;106440;1</country>
+        <population>4;42;81 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cura&#65533;ao;185482;418;444;1</country>
+        <population>1;38;80 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Cyprus;1358282;147;9240;1</country>
+        <population>4;38;61 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Czech Republic (Czechia);10735859;139;77240;1</country>
+        <population>5;43;74 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Denmark;5977412;141;42430;1</country>
+        <population>5;41;87 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Djibouti;1168722;50;23180;2</country>
+        <population>6;25;71 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Dominica;66205;88;750;1</country>
+        <population>5;36;83 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Dominican Republic;11427557;236;48320;2</country>
+        <population>2;28;86 %;0</population>
+        <density>14</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>DR Congo;109276265;48;2267050;6;16;44 %;1</country>
+        <population>34</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Ecuador;18135478;73;248360;1</country>
+        <population>8;29;65 %;0</population>
+        <density>22</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Egypt;116538258;117;995450;2</country>
+        <population>7;24;41 %;1</population>
+        <density>43</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>El Salvador;6338193;306;20720;1</country>
+        <population>8;27;79 %;0</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Equatorial Guinea;1892516;67;28050;4</country>
+        <population>1;21;63 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Eritrea;3535603;35;101000;3</country>
+        <population>7;19;74 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Estonia;1360546;32;42390;1</country>
+        <population>4;42;66 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Eswatini;1242822;72;17200;2</country>
+        <population>7;22;31 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Ethiopia;132059767;132;1000000;3</country>
+        <population>9;19;22 %;1</population>
+        <density>62</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Faeroe Islands;55400;40;1396;2</country>
+        <population>2;37;40 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Falkland Islands;3470;0;12170;1</country>
+        <population>7;42;68 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Fiji;928784;51;18270;2</country>
+        <population>3;28;60 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Finland;5617310;18;303890;1</country>
+        <population>3;43;86 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>France;66548530;122;547557;1</country>
+        <population>6;42;82 %;0</population>
+        <density>82</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>French Guiana;308522;4;82200;3</country>
+        <population>3;25;94 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>French Polynesia;281807;77;3660;1</country>
+        <population>5;35;66 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Gabon;2538952;10;257670;3</country>
+        <population>6;22;84 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Gambia;2759988;273;10120;3</country>
+        <population>9;18;60 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Georgia;3807670;55;69490;1</country>
+        <population>8;37;62 %;0</population>
+        <density>05</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Germany;84552242;243;348560;1</country>
+        <population>4;45;76 %;1</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Ghana;34427414;151;227540;3</country>
+        <population>3;21;58 %;0</population>
+        <density>42</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Gibraltar;39329;3933;10;1</country>
+        <population>9;39;90 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Greece;10047817;78;128900;1</country>
+        <population>3;46;88 %;0</population>
+        <density>12</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Greenland;55840;0;410450;1</country>
+        <population>9;35;90 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Grenada;117207;345;340;1</country>
+        <population>5;34;35 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Guadeloupe;375106;222;1690;2</country>
+        <population>1;47;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Guam;167777;311;540;2</country>
+        <population>7;31;99 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Guatemala;18406359;172;107160;2</country>
+        <population>3;23;56 %;0</population>
+        <density>23</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Guinea;14754785;60;245720;4</country>
+        <population>1;18;40 %;0</population>
+        <density>18</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Guinea-Bissau;2201352;78;28120;3</country>
+        <population>8;19;46 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Guyana;831087;4;196850;2</country>
+        <population>4;26;27 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Haiti;11772557;427;27560;2</country>
+        <population>6;24;61 %;0</population>
+        <density>14</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Holy See;496;124;0;1;59;N.A.;0</country>
+        <population>MISSING</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Honduras;10825703;97;111890;2</country>
+        <population>5;24;58 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Hong Kong;7414909;7062;1050;0</country>
+        <population>7;47;N.A.;0</population>
+        <density>09</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Hungary;9676135;107;90530;1</country>
+        <population>5;44;72 %;0</population>
+        <density>12</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Iceland;393396;4;100250;1</country>
+        <population>5;36;84 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>India;1450935791;488;2973190;2;28;37 %;17</country>
+        <population>78</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Indonesia;283487931;156;1811570;2</country>
+        <population>1;30;59 %;3</population>
+        <density>47</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Iran;91567738;56;1628550;1</country>
+        <population>7;33;73 %;1</population>
+        <density>12</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Iraq;46042015;106;434320;3</country>
+        <population>2;21;72 %;0</population>
+        <density>56</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Ireland;5255017;76;68890;1</country>
+        <population>6;39;62 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Isle of Man;84160;148;570;1</country>
+        <population>5;46;56 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Israel;9387021;434;21640;2</country>
+        <population>8;29;91 %;0</population>
+        <density>12</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Italy;59342867;202;294140;1</country>
+        <population>2;48;72 %;0</population>
+        <density>73</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Jamaica;2839175;262;10830;1</country>
+        <population>4;32;60 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Japan;123753041;339;364555;1</country>
+        <population>2;49;93 %;1</population>
+        <density>52</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Jordan;11552876;130;88780;2</country>
+        <population>6;25;84 %;0</population>
+        <density>14</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Kazakhstan;20592571;8;2699700;3;30;55 %;0</country>
+        <population>25</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Kenya;56432944;99;569140;3</country>
+        <population>2;20;31 %;0</population>
+        <density>69</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Kiribati;134518;166;810;3</country>
+        <population>1;23;57 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Kuwait;4934507;277;17820;1</country>
+        <population>5;35;92 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Kyrgyzstan;7186009;37;191800;2</country>
+        <population>8;25;35 %;0</population>
+        <density>09</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Laos;7769819;34;230800;2</country>
+        <population>4;25;38 %;0</population>
+        <density>1</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Latvia;1871871;30;62200;1</country>
+        <population>3;43;67 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Lebanon;5805962;568;10230;2</country>
+        <population>2;29;88 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Lesotho;2337423;77;30360;2</country>
+        <population>7;22;32 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Liberia;5612817;58;96320;3</country>
+        <population>9;19;54 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Libya;7381023;4;1759540;2</country>
+        <population>3;27;77 %;0</population>
+        <density>09</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Liechtenstein;39870;249;160;1</country>
+        <population>5;44;15 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Lithuania;2859110;46;62674;1</country>
+        <population>2;42;68 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Luxembourg;673036;260;2590;1</country>
+        <population>4;39;87 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Macao;720262;24009;30;0</country>
+        <population>7;39;96 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Madagascar;31964956;55;581795;3</country>
+        <population>9;19;40 %;0</population>
+        <density>39</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Malawi;21655286;230;94280;3</country>
+        <population>6;18;19 %;0</population>
+        <density>27</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Malaysia;35557673;108;328550;1</country>
+        <population>5;31;77 %;0</population>
+        <density>44</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Maldives;527799;1759;300;1</country>
+        <population>6;32;39 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mali;24478595;20;1220190;5</country>
+        <population>5;16;44 %;0</population>
+        <density>3</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Malta;539607;1686;320;1</country>
+        <population>1;41;77 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Marshall Islands;37548;209;180;2</country>
+        <population>9;21;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Martinique;343195;324;1060;2;49;N.A.;0</country>
+        <population>MISSING</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mauritania;5169395;5;1030700;4</country>
+        <population>6;17;60 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mauritius;1271169;626;2030;1</country>
+        <population>2;37;41 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mayotte;326505;871;375;4</country>
+        <population>6;17;42 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mexico;130861007;67;1943950;1</country>
+        <population>9;29;87 %;1</population>
+        <density>6</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Micronesia;526923;753;700;2</country>
+        <population>8;26;75 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Moldova;3034961;92;32850;1</country>
+        <population>7;38;57 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Monaco;38631;25927;1;2</country>
+        <population>1;54;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mongolia;3475540;2;1553560;2</country>
+        <population>6;27;67 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Montenegro;638479;47;13450;1</country>
+        <population>8;40;68 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Montserrat;4389;44;100;1</country>
+        <population>4;42;11 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Morocco;38081173;85;446300;2</country>
+        <population>2;30;67 %;0</population>
+        <density>47</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Mozambique;34631766;44;786380;4</country>
+        <population>7;16;41 %;0</population>
+        <density>42</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Myanmar;54500091;83;653290;2</country>
+        <population>1;30;34 %;0</population>
+        <density>67</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Namibia;3030131;4;823290;3</country>
+        <population>2;21;54 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Nauru;11947;597;20;3</country>
+        <population>3;20;95 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Nepal;29651054;207;143350;2;25;24 %;0</country>
+        <population>36</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Netherlands;18228742;541;33720;1</country>
+        <population>4;41;89 %;0</population>
+        <density>22</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>New Caledonia;292639;16;18280;2;34;75 %;0</country>
+        <population>MISSING</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>New Zealand;5213944;20;263310;1</country>
+        <population>7;38;83 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Nicaragua;6916140;57;120340;2</country>
+        <population>2;26;58 %;0</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Niger;27032412;21;1266700;5</country>
+        <population>9;15;18 %;0</population>
+        <density>33</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Nigeria;232679478;255;910770;4</country>
+        <population>4;18;54 %;2</population>
+        <density>85</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Niue;1819;7;260;2</country>
+        <population>5;36;44 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>North Korea;26498823;220;120410;1</country>
+        <population>8;36;63 %;0</population>
+        <density>32</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>North Macedonia;1823009;72;25220;1</country>
+        <population>5;41;69 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Northern Mariana Islands;44278;96;460;2</country>
+        <population>3;37;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Norway;5576660;15;365268;1</country>
+        <population>4;40;86 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Oman;5281538;17;309500;2</country>
+        <population>5;29;93 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Pakistan;251269164;326;770880;3</country>
+        <population>5;20;34 %;3</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Palau;17695;38;460;1</country>
+        <population>9;38;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Panama;4515577;61;74340;2</country>
+        <population>1;30;70 %;0</population>
+        <density>06</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Papua New Guinea;10576502;23;452860;3</country>
+        <population>1;23;12 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Paraguay;6929153;17;397300;2</country>
+        <population>4;27;68 %;0</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Peru;34217848;27;1280000;2;30;80 %;0</country>
+        <population>42</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Philippines;115843670;389;298170;1</country>
+        <population>9;26;49 %;1</population>
+        <density>42</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Poland;38539201;126;306230;1</country>
+        <population>3;42;59 %;0</population>
+        <density>47</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Portugal;10425292;114;91590;1</country>
+        <population>5;47;66 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Puerto Rico;3242204;366;8870;0</country>
+        <population>9;45;N.A.;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Qatar;3048423;263;11610;1</country>
+        <population>7;34;97 %;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>R&#65533;union;878591;351;2500;2</country>
+        <population>2;38;N.A.;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Romania;19015088;83;230170;1</country>
+        <population>7;43;55 %;0</population>
+        <density>23</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Russia;144820423;9;16376870;1</country>
+        <population>5;40;75 %;1</population>
+        <density>77</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Rwanda;14256567;578;24670;3</country>
+        <population>6;20;18 %;0</population>
+        <density>17</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saint Barthelemy;11258;536;21;0</country>
+        <population>8;39;0 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saint Helena;5237;13;390;1</country>
+        <population>6;51;33 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saint Kitts &amp; Nevis;46843;180;260;1</country>
+        <population>5;36;39 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saint Lucia;179744;295;610;1</country>
+        <population>4;34;20 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saint Martin;26129;493;53;2</country>
+        <population>7;41;0 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saint Pierre &amp; Miquelon;5628;24;230;1</country>
+        <population>3;47;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Samoa;218019;77;2830;3</country>
+        <population>8;20;16 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>San Marino;33581;560;60;1</country>
+        <population>2;48;100 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Sao Tome &amp; Principe;235536;245;960;3</country>
+        <population>6;19;78 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Saudi Arabia;33962757;16;2149690;2</country>
+        <population>3;30;92 %;0</population>
+        <density>42</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Senegal;18501984;96;192530;3</country>
+        <population>8;19;52 %;0</population>
+        <density>23</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Serbia;6736216;77;87460;1</country>
+        <population>5;44;73 %;0</population>
+        <density>08</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Seychelles;130418;284;460;2</country>
+        <population>1;34;44 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Sierra Leone;8642022;120;72180;3</country>
+        <population>7;19;45 %;0</population>
+        <density>11</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Singapore;5832387;8332;700;1;36;N.A.;0</country>
+        <population>07</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Sint Maarten;43350;1275;34;1</country>
+        <population>4;42;100 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Slovakia;5506760;115;48088;1</country>
+        <population>6;42;54 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Slovenia;2118697;105;20140;1</country>
+        <population>6;44;55 %;0</population>
+        <density>03</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Solomon Islands;819198;29;27990;3</country>
+        <population>5;20;23 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Somalia;19009151;30;627340;6;16;46 %;0</country>
+        <population>23</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>South Africa;64007187;53;1213090;2</country>
+        <population>2;28;66 %;0</population>
+        <density>78</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>South Korea;51717590;532;97230;0</country>
+        <population>7;45;82 %;0</population>
+        <density>63</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>South Sudan;11943408;20;610952;3</country>
+        <population>8;18;27 %;0</population>
+        <density>15</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Spain;47910526;96;498800;1</country>
+        <population>2;45;79 %;0</population>
+        <density>59</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Sri Lanka;23103565;368;62710;2;33;18 %;0</country>
+        <population>28</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>St. Vincent &amp; Grenadines;100616;258;390;1</country>
+        <population>8;34;61 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>State of Palestine;5495443;913;6020;3</country>
+        <population>3;20;83 %;0</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Sudan;50448963;29;1765048;4</country>
+        <population>3;18;35 %;0</population>
+        <density>62</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Suriname;634431;4;156000;2</country>
+        <population>2;28;62 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Sweden;10606999;26;410340;1</country>
+        <population>4;40;87 %;0</population>
+        <density>13</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Switzerland;8921981;226;39516;1</country>
+        <population>4;43;74 %;0</population>
+        <density>11</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Syria;24672760;134;183630;2</country>
+        <population>7;23;53 %;0</population>
+        <density>3</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Taiwan;23213962;656;35410;0</country>
+        <population>9;44;83 %;0</population>
+        <density>28</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Tajikistan;10590927;76;139960;3;22;27 %;0</country>
+        <population>13</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Tanzania;68560157;77;885800;4</country>
+        <population>5;17;39 %;0</population>
+        <density>84</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Thailand;71668011;140;510890;1</country>
+        <population>2;40;53 %;0</population>
+        <density>88</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Timor-Leste;1400638;94;14870;2</country>
+        <population>6;21;35 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Togo;9515236;175;54390;4</country>
+        <population>1;19;44 %;0</population>
+        <density>12</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Tokelau;2506;251;10;2</country>
+        <population>6;27;0 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Tonga;104175;145;720;3</country>
+        <population>1;21;26 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Trinidad and Tobago;1507782;294;5130;1</country>
+        <population>5;37;49 %;0</population>
+        <density>02</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Tunisia;12277109;79;155360;1</country>
+        <population>8;33;71 %;0</population>
+        <density>15</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Turkey;87473805;114;769630;1</country>
+        <population>6;33;76 %;1</population>
+        <density>07</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Turkmenistan;7494498;16;469930;2</country>
+        <population>7;27;46 %;0</population>
+        <density>09</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Turks and Caicos;46535;49;950;1</country>
+        <population>5;39;79 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Tuvalu;9646;322;30;3</country>
+        <population>2;24;83 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>U.S. Virgin Islands;84905;243;350;2</country>
+        <population>1;45;N.A.;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Uganda;50015092;250;199810;4</country>
+        <population>2;17;29 %;0</population>
+        <density>61</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Ukraine;37860221;65;579320;1;42;79 %;0</country>
+        <population>46</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>United Arab Emirates;11027129;132;83600;1</country>
+        <population>2;32;82 %;0</population>
+        <density>14</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>United Kingdom;69138192;286;241930;1</country>
+        <population>6;40;84 %;0</population>
+        <density>85</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>United States;345426571;38;9147420;1</country>
+        <population>6;38;82 %;4</population>
+        <density>23</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Uruguay;3386588;19;175020;1</country>
+        <population>4;36;N.A.;0</population>
+        <density>04</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Uzbekistan;36361859;85;425400;3</country>
+        <population>5;27;48 %;0</population>
+        <density>45</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Vanuatu;327777;27;12190;3</country>
+        <population>6;20;25 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Venezuela;28405543;32;882050;2</country>
+        <population>1;29;N.A.;0</population>
+        <density>35</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Vietnam;100987686;326;310070;1</country>
+        <population>9;33;41 %;1</population>
+        <density>24</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Wallis &amp; Futuna;11277;81;140;1</country>
+        <population>4;38;0 %;0</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Western Sahara;590506;2;266000;2</country>
+        <population>2;32;97 %;0</population>
+        <density>01</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Yemen;40583164;77;527970;4</country>
+        <population>5;18;33 %;0</population>
+        <density>5</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Zambia;21314956;29;743390;4;18;46 %;0</country>
+        <population>26</population>
+        <density>MISSING</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+    <Record>
+        <country>Zimbabwe;16634373;43;386850;3</country>
+        <population>7;18;38 %;0</population>
+        <density>2</density>
+        <area>MISSING</area>
+        <fertility>MISSING</fertility>
+        <age>MISSING</age>
+        <urban>MISSING</urban>
+        <share>MISSING</share>
+    </Record>
+</Countries>
